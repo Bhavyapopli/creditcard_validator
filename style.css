@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: black;
+}
+
+form{
+    margin: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+
+form input{
+    margin: 10px;
+    font-size: 20px;
+}
+
+body{
+    margin: 10% 20%;
+    background-image: url(bgimage2.jpg);
+    background-size: cover;
+    box-sizing: border-box;
+    background-repeat: no-repeat;
+}
